@@ -1,0 +1,7 @@
+Hola! Este es un ejemplo de un archivo de texto creado por Sofia. Contiene distintas oraciones.
+Con palabras en mayusculas y minusculas. Algunos ejemplos son Sofia, Trabajo, Entorno de Programacion, TUIA.
+
+Hay distintos signos de puntuacion? Si, hay.
+
+Hay palabras repetidas? Hay algunas, pero voy a repetir mas palabras, hola hola trabajo TUIA entorno ejemplo palabras computadora archivo computadora
+Aca finaliza el texto de ejemplo. Nos vemos!
