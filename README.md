@@ -1,26 +1,32 @@
-*Trabajo Práctico Final - Entorno de Programación*
+# Trabajo Práctico Final - Entorno de Programación
 
-Tecnicatura Universitaria en Inteligencia Artificial
+## Tecnicatura Universitaria en Inteligencia Artificial
 
-Para clonar el repositorio, se debe utilizar el siguiente comando:
+### Trabajo realizado por Sofía Brizuela Cipolletti, Legajo B-6419/1
 
-git clone https://github.com/sofiabc17/TP-Final.git
+_*_Para clonar el repositorio, se debe utilizar el siguiente comando:_*_
 
-Una vez clonado el repositorio, se deben ejecutar los siguientes comandos:
+- git clone https://github.com/sofiabc17/TP-Final.git
 
-1. sudo docker build -t sofiatp:1.0 .
+_*_Una vez clonado el repositorio, se deben ejecutar los siguientes comandos: _*_
 
-=> En este paso se construye la imagen. 
+- `cd ./TP-Final` 
 
-2. sudo docker images
+Dirigirse al directorio de trabajo donde se encuentran los scripts
 
-=> Con este comando podemos verificar que la imagen se haya construido correctamente.
+- `sudo docker build -t sofiatp:1.0 . `
 
-3. sudo docker run -it sofiatp:1.0 ejemplo.txt
+En este paso se construye la imagen. 
 
-=> El comando run ejecuta el contenedor. En este caso, se utiliza el archivo "ejemplo.txt". Si desea utilizar otro, debe ejecutar el mismo comando con otro archivo que sea .txt
+-`sudo docker images`
 
-Opciones del menú
+Con este comando podemos verificar que la imagen se haya construido correctamente.
+
+- `sudo docker run -it sofiatp:1.0 ejemplo.txt `
+
+El comando run ejecuta el contenedor. En este caso, se utiliza el archivo "ejemplo.txt". Si desea utilizar otro, debe ejecutar el mismo comando con otro archivo que sea .txt
+
+## Opciones del menú
 
 Este programa tiene como función analizar un archivo de texto.
 
