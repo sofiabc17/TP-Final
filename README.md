@@ -22,7 +22,7 @@ En este paso se construye la imagen.
 
 Con este comando podemos verificar que la imagen se haya construido correctamente.
 
-- `sudo docker run -it sofiatp:1.0 ejemplo.txt `
+- `sudo docker run -it sofiatp:1.0 `
 
 El comando run ejecuta el contenedor. En este caso, se utiliza el archivo "ejemplo.txt". Si desea utilizar otro, debe ejecutar el mismo comando con otro archivo que sea .txt
 
@@ -37,4 +37,4 @@ Este programa tiene como función analizar un archivo de texto.
 5. blankLinesCounter.sh: Contador de líneas en blanco
 6. Salir: Finaliza la ejecución del menú 
 
-Cada vez que quiera recorrer el menú, deberá ejecutar el comando `sudo docker run -it sofiatp:1.0 ejemplo.txt `
+Cada vez que quiera recorrer el menú, deberá ejecutar el comando `sudo docker run -it sofiatp:1.0 `
