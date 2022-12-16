@@ -31,7 +31,7 @@ El comando run ejecuta el contenedor. En este caso, se utiliza el archivo "ejemp
 Este programa tiene como función analizar un archivo de texto.
 
 1. statsWords.sh: Indicador estadístico de longitud de palabras
-2. statsUsageWords.sh: Indicador estadístico de uso de palabras (de al menos 4 letras).Luego muestra un Top 10 de estas palabras, ordenadas desde la que tiene más apariciones a la que tiene menos
+2. statsUsageWords.sh: Indicador estadístico de uso de palabras (de al menos 4 letras). Luego muestra un Top 10 de estas palabras, ordenadas desde la que tiene más apariciones a la que tiene menos
 3. findNames.sh: Identificación de nombres propios
 4. statsSentences.sh: Indicador estadístico de longitud de oraciones
 5. blankLinesCounter.sh: Contador de líneas en blanco
