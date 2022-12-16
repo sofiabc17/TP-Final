@@ -24,7 +24,7 @@ Con este comando podemos verificar que la imagen se haya construido correctament
 
 - `sudo docker run -it sofiatp:1.0 `
 
-El comando run ejecuta el contenedor. En este caso, se utiliza el archivo "ejemplo.txt". Si desea utilizar otro, debe ejecutar el mismo comando con otro archivo que sea .txt
+El comando run ejecuta el contenedor y mostrará las opciones del menú.
 
 ## Opciones del menú
 
