@@ -36,3 +36,5 @@ Este programa tiene como función analizar un archivo de texto.
 4. statsSentences.sh: Indicador estadístico de longitud de oraciones
 5. blankLinesCounter.sh: Contador de líneas en blanco
 6. Salir: Finaliza la ejecución del menú 
+
+Cada vez que quiera recorrer el menú, deberá ejecutar el comando `sudo docker run -it sofiatp:1.0 ejemplo.txt `
