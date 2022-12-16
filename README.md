@@ -8,7 +8,7 @@ _*_Para clonar el repositorio, se debe utilizar el siguiente comando:_*_
 
 - git clone https://github.com/sofiabc17/TP-Final.git
 
-_*_Una vez clonado el repositorio, se deben ejecutar los siguientes comandos: _*_
+_*_Una vez clonado el repositorio, se deben ejecutar los siguientes comandos:_*_
 
 - `cd ./TP-Final` 
 
@@ -18,7 +18,7 @@ Dirigirse al directorio de trabajo donde se encuentran los scripts
 
 En este paso se construye la imagen. 
 
--`sudo docker images`
+- `sudo docker images`
 
 Con este comando podemos verificar que la imagen se haya construido correctamente.
 
